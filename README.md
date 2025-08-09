@@ -45,6 +45,7 @@ Pass a `mood` prop to the `<Pet />` component to change the pet’s mood dynamic
 <Pet mood="sad" />
 <Pet mood="neutral" />
 
+```
 Mood Configurations
 The pet supports the following moods:
 
