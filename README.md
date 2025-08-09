@@ -48,24 +48,19 @@ Pass a `mood` prop to the `<Pet />` component to change the pet’s mood dynamic
 ```
 Mood Configurations
 The pet supports the following moods:
-
-happy
-
-sad
-
-angry
-
-surprised
-
-neutral
-
-fearful
-
-disgusted
+1. happy
+2. sad
+3. angry
+4. surprised
+5. neutral
+6. fearful
+7. disguisted
 
 Each mood has unique animations and styling.
 
 Customization
+
+```
 Update mood configurations in moodConfigs.js to change colors, animations, or messages
 
 Modify SVG and CSS styles for a personalized pet appearance
@@ -78,12 +73,3 @@ React
 SVG for vector graphics
 
 CSS animations and keyframes
-
-Contributing
-Feel free to open issues or submit pull requests for new moods, features, or fixes!
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Contact
-Created by Your Name – feel free to reach out!
